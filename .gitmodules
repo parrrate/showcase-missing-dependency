@@ -1,0 +1,3 @@
+[submodule "showcase-missing-submodule"]
+	path = showcase-missing-submodule
+	url = https://github.com/parrrate/showcase-missing-submodule.git
